@@ -1,0 +1,171 @@
+
+arcadia_alpha.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map_level1.1
+  rotate: false
+  xy: 1, 751
+  size: 3040, 1056
+  orig: 3040, 1056
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 1, 269
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+badlogic
+  rotate: false
+  xy: 3043, 1551
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+touchBackground
+  rotate: false
+  xy: 1, 67
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+touchKnob
+  rotate: false
+  xy: 803, 677
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+buttonDown
+  rotate: false
+  xy: 3043, 1499
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+buttonUp
+  rotate: false
+  xy: 3301, 1757
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 1, 35
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 203, 237
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 803, 645
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 877, 720
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+enemy0
+  rotate: false
+  xy: 877, 720
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+CharacterSinFondo
+  rotate: false
+  xy: 3043, 1465
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+CharacterSinFondo
+  rotate: false
+  xy: 3095, 1517
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemyOnedown
+  rotate: false
+  xy: 3301, 1723
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemyOnedown
+  rotate: false
+  xy: 3353, 1775
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+playerOneDown
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+playerOneDown
+  rotate: false
+  xy: 203, 203
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+playerOneUp
+  rotate: false
+  xy: 803, 611
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+playerOneUp
+  rotate: false
+  xy: 877, 686
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+missile
+  rotate: false
+  xy: 46, 40
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 248, 253
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+
+arcadia_alpha2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+images/arial-15
+  rotate: false
+  xy: 1, 1
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
