@@ -5,154 +5,182 @@ filter: Nearest,Nearest
 repeat: none
 map_level1.1
   rotate: false
-  xy: 1, 751
+  xy: 1, 981
   size: 3040, 1056
   orig: 3040, 1056
   offset: 0, 0
   index: -1
 map
   rotate: false
-  xy: 1, 269
+  xy: 1, 499
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+map_level1.2
+  rotate: false
+  xy: 3043, 1557
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+map_level1.3
+  rotate: false
+  xy: 1, 17
   size: 800, 480
   orig: 800, 480
   offset: 0, 0
   index: -1
 badlogic
   rotate: false
-  xy: 3043, 1551
+  xy: 803, 723
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 touchBackground
   rotate: false
-  xy: 1, 67
+  xy: 3043, 1355
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 touchKnob
   rotate: false
-  xy: 803, 677
+  xy: 3845, 1965
   size: 72, 72
   orig: 72, 72
   offset: 0, 0
   index: -1
 buttonDown
   rotate: false
-  xy: 3043, 1499
+  xy: 803, 671
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 buttonUp
   rotate: false
-  xy: 3301, 1757
+  xy: 1061, 929
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+botonFuego
+  rotate: false
+  xy: 3043, 1321
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
 enemy1
   rotate: false
-  xy: 1, 35
+  xy: 3245, 1525
   size: 43, 30
   orig: 43, 30
   offset: 0, 0
   index: -1
 enemy2
   rotate: false
-  xy: 203, 237
+  xy: 3845, 1933
   size: 43, 30
   orig: 43, 30
   offset: 0, 0
   index: -1
 enemy3
   rotate: false
-  xy: 803, 645
+  xy: 3919, 2007
   size: 43, 30
   orig: 43, 30
   offset: 0, 0
   index: -1
 enemy
   rotate: false
-  xy: 877, 720
+  xy: 803, 640
   size: 43, 29
   orig: 43, 29
   offset: 0, 0
   index: -1
 enemy0
   rotate: false
-  xy: 877, 720
+  xy: 803, 640
   size: 43, 29
   orig: 43, 29
   offset: 0, 0
   index: -1
+botonRayo
+  rotate: false
+  xy: 855, 696
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
 CharacterSinFondo
   rotate: false
-  xy: 3043, 1465
+  xy: 1061, 895
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 CharacterSinFondo
   rotate: false
-  xy: 3095, 1517
+  xy: 1113, 947
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 enemyOnedown
   rotate: false
-  xy: 3301, 1723
+  xy: 3043, 1287
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: 1
 enemyOnedown
   rotate: false
-  xy: 3353, 1775
+  xy: 3111, 1321
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: 2
 playerOneDown
   rotate: false
-  xy: 1, 1
+  xy: 3245, 1491
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: 1
 playerOneDown
   rotate: false
-  xy: 203, 203
+  xy: 3845, 1899
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: 2
 playerOneUp
   rotate: false
-  xy: 803, 611
+  xy: 3919, 1973
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: 1
 playerOneUp
   rotate: false
-  xy: 877, 686
+  xy: 803, 606
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: 2
 missile
   rotate: false
-  xy: 46, 40
+  xy: 3290, 1530
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 fireball
   rotate: false
-  xy: 248, 253
+  xy: 1, 1
   size: 12, 14
   orig: 12, 14
   offset: 0, 0
