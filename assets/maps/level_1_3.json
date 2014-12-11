@@ -2,7 +2,7 @@
 	"title"	:	"Tutorial part 3",
 	"map"	:	"map_level1.3",
 	"sound"	:	"sounds/l2outro.ogg",
-	"next_level"	:	"level_1_1",
+	"next_level"	:	"",
 	"entities"	:	[
 		{
 			"type"	:	-1,
